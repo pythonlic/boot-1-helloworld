@@ -15,6 +15,7 @@ import org.springframework.stereotype.Component;
 @ConfigurationProperties(prefix = "mycar")
 public class Car {
     // v1
+    // v2
     private  String brand;
     private  Integer price;
 }
