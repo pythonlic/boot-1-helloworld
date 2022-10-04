@@ -14,6 +14,7 @@ import org.springframework.stereotype.Component;
 @EqualsAndHashCode
 @ConfigurationProperties(prefix = "mycar")
 public class Car {
+    // v1
     private  String brand;
     private  Integer price;
 }
