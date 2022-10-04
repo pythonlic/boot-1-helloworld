@@ -20,6 +20,7 @@ public class Car {
     // con
     // cccc
     // xiugai
+    // pull
     private  String brand;
     private  Integer price;
 }
